@@ -48,20 +48,20 @@ Eseguendo il programma il giorno 13/03/2014, questi dovrebbero essere i risultat
 
 ``` ruby
 {
-  1/2012 => {
-    pending_invoice_amount: 400,
+  "1/2012" => {
+    pending_invoice_amount: 400.0,
     moratory_interest: 14.66
   },
-  2/2012 => {
-    pending_invoice_amount: 300,
+  "2/2012" => {
+    pending_invoice_amount: 300.0,
     moratory_interest: 16.08
   },
-  1/2013 => {
-    pending_invoice_amount: 300,
+  "1/2013" => {
+    pending_invoice_amount: 300.0,
     moratory_interest: 9.98
   },
-  2/2013 => {
-    pending_invoice_amount: 0,
+  "2/2013" => {
+    pending_invoice_amount: 0.0,
     moratory_interest: 17.09
   }
 }
