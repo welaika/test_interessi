@@ -62,3 +62,5 @@ Ogni fattura ha una data di scadenza: a partire da questa data, comincia a matur
   }
 }
 ```
+
+I dati nei file YAML non sono per forza ordinati secondo un criterio, tanto meno cronologico.
