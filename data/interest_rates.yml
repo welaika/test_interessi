@@ -1,12 +1,11 @@
 - start_at: 2012-01-01
   end_at: 2013-01-14
   percentage: 2
-
-- start_at: 2013-01-15
-  end_at: 2013-12-31
-  percentage: 3
-
+  
 - start_at: 2014-01-01
   end_at: .inf
   percentage: 1
 
+- start_at: 2013-01-15
+  end_at: 2013-12-31
+  percentage: 3
