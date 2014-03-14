@@ -21,7 +21,7 @@ Ogni fattura è composta così:
 - id: "1/2012"
   customer: "Mario Rossi"
   expire_at: 2012-02-28
-  amount: 400
+  amount: 400.0
 ```
 
 Ogni pagamento si riferisce a una fattura:
@@ -29,7 +29,7 @@ Ogni pagamento si riferisce a una fattura:
 ```yaml
 - invoice_id: "1/2013"
   payed_at: 2013-03-15
-  amount: 400
+  amount: 400.0
 ```
 
 Ogni tasso di interesse è così composto:
