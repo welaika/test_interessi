@@ -32,7 +32,7 @@ Ogni pagamento si riferisce a una fattura:
   amount: 400
 ```
 
-Ogni interesse è così composto:
+Ogni tasso di interesse è così composto:
 
 ```yaml
 - start_at: 2012-01-01
