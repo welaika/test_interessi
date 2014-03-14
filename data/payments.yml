@@ -1,20 +1,20 @@
 - invoice_id: "2/2012"
   payed_at: 2012-10-12
-  amount: 300
+  amount: 300.0
 
 - invoice_id: "1/2013"
   payed_at: 2013-03-15
-  amount: 400
+  amount: 400.0
 
 - invoice_id: "1/2013"
   payed_at: 2013-10-3
-  amount: 200
+  amount: 200.0
 
 - invoice_id: "2/2013"
   payed_at: 2013-06-02
-  amount: 500
+  amount: 500.0
 
 - invoice_id: "2/2013"
   payed_at: 2013-12-25
-  amount: 500
+  amount: 500.0
 
