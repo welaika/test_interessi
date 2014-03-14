@@ -11,6 +11,8 @@ payments.yml: pagamenti già effettuati
 interests.yml: interessi moratori (percentuale in un range temporale definito)
 ```
 
+I dati nei file YAML non sono ordinati cronologicamente.
+
 ### Funzionalità
 
 Ogni fattura è composta così:
@@ -63,4 +65,4 @@ Ogni fattura ha una data di scadenza: a partire da questa data, comincia a matur
 }
 ```
 
-I dati nei file YAML non sono per forza ordinati secondo un criterio, tanto meno cronologico.
+
