@@ -1,20 +1,20 @@
 - id: "1/2012"
   customer: "Mario Rossi"
   expire_at: 2012-02-28
-  amount: 400
+  amount: 400.0
 
 - id: "2/2012"
   customer: "Mario Rossi"
   expire_at: 2012-03-15
-  amount: 600
+  amount: 600.0
 
 - id: "1/2013"
   customer: "Giovanni Verdi"
   expire_at: 2013-04-10
-  amount: 900
+  amount: 900.0
 
 - id: "2/2013"
   customer: "Giovanni Verdi"
   expire_at: 2013-05-31
-  amount: 1000
+  amount: 1000.0
 
