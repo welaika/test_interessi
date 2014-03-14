@@ -8,7 +8,7 @@ L'obiettivo dell'esercizio è calcolare i saldi delle fatture e gli interessi mo
 ```
 invoices.yml: fatture emesse
 payments.yml: pagamenti già effettuati
-interests.yml: interessi moratori (percentuale annuo)
+interests.yml: interessi moratori (percentuale in un range temporale definito)
 ```
 
 ### Funzionalità
