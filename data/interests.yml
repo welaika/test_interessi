@@ -7,5 +7,6 @@
   percentage: 3
 
 - start_at: 2014-01-01
+  end_at: .inf
   percentage: 1
 
