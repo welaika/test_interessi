@@ -44,22 +44,24 @@ Ogni fattura ha una data di scadenza: a partire da questa data, comincia a matur
 
 ### Risultato atteso
 
+Eseguendo il programma il giorno 13/03/2014, questi dovrebbero essere i risultati attesi:
+
 ``` ruby
 {
   1/2012 => {
-    invoice_amount: 400,
+    pending_invoice_amount: 400,
     moratory_interest: 14.66
   },
   2/2012 => {
-    invoice_amount: 300,
+    pending_invoice_amount: 300,
     moratory_interest: 16.08
   },
   1/2013 => {
-    invoice_amount: 300,
+    pending_invoice_amount: 300,
     moratory_interest: 9.98
   },
   2/2013 => {
-    invoice_amount: 0,
+    pending_invoice_amount: 0,
     moratory_interest: 17.09
   }
 }
